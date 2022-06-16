@@ -16,5 +16,7 @@
     "sourceType": "module"
   },
   "plugins": ["vue", "@typescript-eslint"],
-  "rules": {}
+  "rules": {
+    "@typescript-eslint/no-namespace": 0
+  }
 }
